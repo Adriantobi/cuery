@@ -1,0 +1,12 @@
+{
+  "extensions": {
+    "rs": "cargo run",
+    "py": "python",
+    "dart": "dart run",
+    "js": "node"
+  },
+  "commands": {
+    "serve": "npx serve",
+    "next-dev": "npx run dev"
+  }
+}
